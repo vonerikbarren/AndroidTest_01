@@ -16,6 +16,6 @@ Below this line, on android type: [AndroidData:TransferSuccessful]
 
 EnterHere(
     [
-        
+        AndroidData:TransferSuccessful
     ]
 )
