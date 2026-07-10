@@ -1,0 +1,20 @@
+{
+  "October": {
+    "revenue": 482000,
+    "expenses": 391000,
+    "net": 91000,
+    "notes": "Seasonal produce promotions and early holiday shopping."
+  },
+  "November": {
+    "revenue": 558000,
+    "expenses": 427000,
+    "net": 131000,
+    "notes": "Thanksgiving demand boosted bakery and meat sales."
+  },
+  "December": {
+    "revenue": 601000,
+    "expenses": 512000,
+    "net": 89000,
+    "notes": "Holiday peak sales but higher seasonal labor and utilities."
+  }
+}
