@@ -98,3 +98,7 @@ If you felt like a queen yesterday, today...
 Let yourself be guided by a heart that knows romance  
           `Am`                    `D`                `G`  
 When the storms sail you, why not start to dance?
+
+
+
+--- end --- 
